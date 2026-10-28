@@ -1,0 +1,17 @@
+{
+  "actual_rows": 1488,
+  "forecast_rows": 18080,
+  "actual_duplicate_keys": 0,
+  "forecast_duplicate_keys": 0,
+  "missing_actual_half_hours": 0,
+  "negative_actual_rows": 0,
+  "negative_forecast_rows": 0,
+  "actual_duplicate_examples": [],
+  "forecast_duplicate_examples": [],
+  "missing_actual_examples": [],
+  "negative_actual_examples": [],
+  "negative_forecast_examples": [],
+  "scope_start": "2026-01-02",
+  "scope_end_exclusive": "2026-02-02",
+  "forecast_publish_start": "2025-12-01"
+}
